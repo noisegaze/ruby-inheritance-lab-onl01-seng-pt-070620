@@ -4,6 +4,13 @@ class Student < User
     @knowledge = []
   end 
   
+  def 
+  end
+  
+  
+  
+  
+  
   
   
 end
